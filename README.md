@@ -12,8 +12,6 @@
 
 ### - Technologies utilisées :
 NodeJs - VueJs - MySQL - Bootstrap - Sass
-
-Démo du site sur youtube : https://www.youtube.com/watch?v=RFtriVHPOjM&t=2s&ab_channel=ThomasLandais
   
 ## INSTALLATION
 ### Prérequis :
@@ -71,15 +69,4 @@ Le site permet de
   <li>Modifier et supprimer son compte</li>
 </ul>
 
-Un compte admin est présent pour la modération (suppression des posts et commentaires d'autres utilisateurs).
-<br>
-Voici les codes d'accès admin :
-```
-admin@admin.com
-Admin.31
-```
-
-Bonne visite !
-
-![Capture d’écran 2021-12-14 171505](https://user-images.githubusercontent.com/76964599/146037451-051d9dcb-257f-45a3-86a0-9bc53df309fd.png)
 
